@@ -21,7 +21,7 @@ Machine Learning (Logistic Regression / Random Forest)
 
 Scikit-learn, NumPy, Pandas
 
-🗂️ Project Structure
+ Project Structure
 php
 Copy
 Edit
@@ -33,11 +33,12 @@ Edit
 │   └── index.html
 ├── static/                # CSS files
 │   └── style.css
-🔧 How to Run Locally
+ How to Run Locally
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/heart-failure-predictor.git
+git clone (https://github.com/Diya-thakur01/heart_failure_disease_predictor)
+ 
 cd heart-failure-predictor
 pip install -r requirements.txt
 python app.py
@@ -62,6 +63,5 @@ Maximum heart rate
 Diya Thakur
 B.Tech CSE (AI/ML), SVSU
 
-
-📝 License
+ License
 This project is licensed under the MIT License.
